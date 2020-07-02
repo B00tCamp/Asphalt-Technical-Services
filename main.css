@@ -202,8 +202,4 @@ make the two columns stack on top of each other instead of next to each other */
   .logoImg {
     width: 100%;
   }
-
-  .contactBar {
-    padding-right: 0 !important;
-  }
 }
