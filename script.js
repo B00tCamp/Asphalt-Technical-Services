@@ -3,7 +3,7 @@ window.onscroll = function() {myFunction()};
 
 // Get the navbar
 var navbar = document.getElementById("navBar");
-var wrapper = document.getElementById("wrapper")
+var wrapping = document.getElementById("wrapping")
 // Get the offset position of the navbar
 var sticky = navbar.offsetTop;
 
@@ -11,10 +11,10 @@ var sticky = navbar.offsetTop;
 function myFunction() {
   if (window.pageYOffset >= sticky) {
     navbar.classList.add("sticky");
-    wrapper.classList.add("stickyMode");
+    wrapping.classList.add("stickyMode");
   } else {
     navbar.classList.remove("sticky");
-    wrapper.classList.remove("stickyMode");
+    wrapping.classList.remove("stickyMode");
   }
 }
 
