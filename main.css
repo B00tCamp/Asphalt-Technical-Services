@@ -11,7 +11,7 @@
   padding-right: 1em;
   padding-top: 1em;
   height: 2.5em;
-  background-color: #f4be47;
+  background-color: #282a2b;
   color: #ffffff;
 }
 
@@ -24,7 +24,7 @@
 }
 
 .navbar {
-  background-color: #f4be47;
+  background-color: #282a2b;
   font-weight: bold;
   font-size: 1.25em;
   justify-content: center;
@@ -66,6 +66,7 @@
 
 .jumbotron {
   margin: 0;
+  background-color: #363839;
 }
 
 .container {
@@ -151,7 +152,7 @@ footer {
 .navStyling {
   display: flex;
   justify-content: space-around;
-  background-color: #f4be47;
+  background-color: #282a2b;
 }
 
 h3 {
