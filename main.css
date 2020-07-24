@@ -64,6 +64,14 @@
   color: #000000;
 }
 
+.profile {
+  max-width: 90%;
+  margin: 0 auto;
+}
+.profile p {
+  margin: 1em 0;
+}
+
 .jumbotron {
   margin: 0;
   background-color: #363839;
@@ -76,7 +84,7 @@
   width: 100%;
 }
 
-.whatWeDoList {
+.ulStyle {
   list-style: none;
 }
 
