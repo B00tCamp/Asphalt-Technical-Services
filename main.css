@@ -3,7 +3,9 @@
   padding: 0px;
   box-sizing: border-box;
 }
-
+em {
+  font-weight: bold;
+}
 .contactBar {
   display: flex;
   justify-content: flex-end;
@@ -90,7 +92,6 @@
 
 .column {
   width: 50%;
-  margin-top: 0.5em;
   padding: 3em;
 }
 
