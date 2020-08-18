@@ -1,0 +1,22 @@
+{
+  "name": "asphalt-technical-services",
+  "version": "1.0.0",
+  "description": "Asphalt Technical Services Website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B00tCamp/Asphalt-Technical-Services.git"
+  },
+  "author": "Jovan de Beer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B00tCamp/Asphalt-Technical-Services/issues"
+  },
+  "homepage": "https://github.com/B00tCamp/Asphalt-Technical-Services#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
