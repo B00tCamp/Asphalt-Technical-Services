@@ -3,7 +3,7 @@ window.onscroll = function() {myFunction()};
 
 // Get the navbar
 var navbar = document.getElementById("navBar");
-var wrapping = document.getElementById("wrapping")
+var wrapping = document.getElementById("wrapping");
 // Get the offset position of the navbar
 var sticky = navbar.offsetTop;
 
